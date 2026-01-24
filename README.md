@@ -2,11 +2,11 @@
 
 ### 👨‍💻 Python Developer | AI Enthusiast
 
-I am a passionate Python Developer currently building scalable backend solutions at **Zukti Innovations/Niraginfotech**. I have a strong foundation in web development and I am actively expanding my skillset into the world of **Generative AI, NLP, and Agentic AI**.
+I am a passionate Python Developer currently building scalable backend solutions at **Zukti Innovations/Niraginfotech**. I have a strong foundation in web development and I am actively expanding my skillset into the world of **Generative AI, NLP and Agentic AI**.
 
 - 🔭 **I’m currently working on:** Scalable Django & FastAPI applications.
 - 🌱 **I’m currently learning:** Natural Language Processing (NLP), LLMs, and Agentic Workflows.
-- 💬 **Ask me about:** Python Architecture, Backend Optimization, and API Development.
+- 💬 **Ask me about:** Python Architecture, Backend Optimization and API Development.
 - ⚡ **Fun fact:** I can debug code in my sleep (sometimes literally)!
 
 ---
